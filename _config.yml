@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Vamsi Krishna Blog
+description: Software Engineer logging his learnings in Tech, Finance and more
 github_username: nvamsikrishna05
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "vamsikrishna"
@@ -34,13 +34,13 @@ url: "https://nvamsikrishna05.github.io" # the base hostname & protocol for your
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/vamsikrishna" # the subpath of your site, e.g. "/blog".
+baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: VamsiKrishnaIN
+    github: nvamsikrishna05
 
 # Set this to true to get LaTeX math equation support
 use_math: 
